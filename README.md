@@ -11,7 +11,8 @@
 
 #Numeric and String Comparisons: used strings and numeric values to test if if text or numbers were equal where 0 means true and 1 means false
 
-#Conditional Statements: made an if statement at first to test how it worked with num a and b and later added an else statment to see when num a is larger
+#Conditional Statements: created if_else.sh and made an if statement at first to test how it worked with num a and b and later added an else statment to see when num a is larger
+#then edited the backup.sh again to add a if and else statement to see if the backup worked or failed
 
 #Positional Parameters:
 
