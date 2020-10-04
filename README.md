@@ -1,5 +1,11 @@
 #project used nano "task.sh" to edit all the files
 
+#What is Scripting: added commands date, pws, and ls to task.sh (skipped cal because it didnt work)
+
+#What is Bash: added to task.sh (used to interpret the script's content)
+
+#Script Execution: date.sh was created to show how execute it to see the output then added the #!/bin/bash
+
 #Hello World Bash Shell Script: Created a file and output what was in the ""
 
 #Back Bash Shell Script: Created a tar ball (my user directory wasnt working so I used ./ instead)
