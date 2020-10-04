@@ -1,7 +1,17 @@
 #!/bin/bash
 
+if [ -z $1 ]; then
+	user=$(whoami)
+else 
+	if [ ! -d "/home/$1" ]; then
+		echo "Requested $1 user home directory doesnt exist."
+		exit 1
+	fi
+	user=$1
+fi
+
 #variables
-user=$(whoami)
+
 input=/home/$user
 output=/tmp/${user}_home_$(date +%Y-%d-%d_%H%M%S).tar.gz
 
