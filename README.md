@@ -16,5 +16,11 @@
 
 #Positional Parameters: created a small file to do as an example then edited backup.sh again to accept arguments to see if a directory exists
 
+#For Loop: created a example file to print out the 3 numbers
 
+#While Loop: created an example file to only keep executing when the number is less than 3 while the counter variable goes up by one
 
+#Until Loop: creared an example file to have the counter variable start at a number and will keep going until the condition is true. then edited the backup.sh to implement the a loop to backup multiple directories if needed.
+
+#sources used: https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially (got a message when doing push command and need to do this to fix it)
+#https://linuxconfig.org/bash-scripting-tutorial-for-beginners#h9-hello-world-bash-shell-script (tutorial followed)
