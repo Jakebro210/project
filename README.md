@@ -25,3 +25,4 @@
 
 #sources used: https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially (got a message when doing push command and need to do this to fix it)
 #https://linuxconfig.org/bash-scripting-tutorial-for-beginners#h9-hello-world-bash-shell-script (tutorial followed)
+#https://websiteforstudents.com/how-to-use-nano-command-line-text-editor-in-ubuntu-18-04-16-04/ (how to use nano editor)
