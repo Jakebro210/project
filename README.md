@@ -1,4 +1,5 @@
-#project
+#project used nano "task.sh" to edit all the files
+
 #Hello World Bash Shell Script: Created a file and output what was in the ""
 
 #Back Bash Shell Script: Created a tar ball (my user directory wasnt working so I used ./ instead)
