@@ -1,5 +1,7 @@
 #!/bin/bash
 
+function backup {
+
 if [ -z $1 ]; then
 	user=$(whoami)
 else 
@@ -54,3 +56,9 @@ ls -l $output
 else
 	echo "Backup of $input failed!"
 fi
+}
+
+for directory in $*; do
+	backup $directory
+done;
+
