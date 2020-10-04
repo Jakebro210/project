@@ -14,7 +14,7 @@
 #Conditional Statements: created if_else.sh and made an if statement at first to test how it worked with num a and b and later added an else statment to see when num a is larger
 #then edited the backup.sh again to add a if and else statement to see if the backup worked or failed and also some more echo statements to output more details
 
-#Positional Parameters: created a small file to do as an example then edited backup.sh again to accept arguments
+#Positional Parameters: created a small file to do as an example then edited backup.sh again to accept arguments to see if a directory exists
 
 
 
