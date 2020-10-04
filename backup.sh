@@ -1,4 +1,10 @@
 #!/bin/bash
 
-tar -czf /tmp/my_directory.tar.gz ./
-/usr/bin/bash
+#variables
+user=$(whoami)
+input=/home/$user
+output=/tmp/${user}_home_$(date +%Y-%d-%d_%H%M%S).tar.gz
+
+tar -czf $output $input
+echo "Backup of $input completed! Details about the output backup file:"
+ls -l $output
