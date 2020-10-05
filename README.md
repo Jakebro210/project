@@ -1,4 +1,5 @@
-#project used nano "task.sh" to edit all the files
+#project This project is to help us learn more on how to use git, bash, and shell. 
+#used nano "task.sh" to edit all the files
 
 #What is Scripting: added commands date, pws, and ls to task.sh (skipped cal because it didnt work)
 
