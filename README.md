@@ -1,3 +1,6 @@
+
+#project used nano "task.sh" to edit all the files
+test!
 #project This project is to help us learn more on how to use git, bash, and shell. 
 #used nano "task.sh" to edit all the files
 
