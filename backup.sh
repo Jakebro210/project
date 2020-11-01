@@ -1,3 +1,5 @@
+#The purpose of the backup block was to backup all of the directories supplied to the script. His backup.sh is cleaner than mine and overall was working unlike mine.
+#I thought it was interesting that the for loop is what is used to backup the directories. It is controlling everything.
 #!/bin/bash
 
 function backup {
