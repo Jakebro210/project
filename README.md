@@ -1,5 +1,5 @@
 #project used nano "task.sh" to edit all the files
-
+test!
 #What is Scripting: added commands date, pws, and ls to task.sh (skipped cal because it didnt work)
 
 #What is Bash: added to task.sh (used to interpret the script's content)
