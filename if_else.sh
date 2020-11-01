@@ -1,3 +1,5 @@
+#The purpose of this block was to compare two given variables(num_a, num_b) to see which number was greater or smaller. The if else statement would print out the message according to the initial values provided. 
+#The one thing I found interesting was the use of "fi" in this if else statement. This was needed for execution which I found interesting!
 #!/bin/bash
 
 num_a=400
