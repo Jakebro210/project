@@ -1,5 +1,9 @@
+
 #project used nano "task.sh" to edit all the files
 test!
+#project This project is to help us learn more on how to use git, bash, and shell. 
+#used nano "task.sh" to edit all the files
+
 #What is Scripting: added commands date, pws, and ls to task.sh (skipped cal because it didnt work)
 
 #What is Bash: added to task.sh (used to interpret the script's content)
@@ -32,3 +36,5 @@ test!
 #sources used: https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially (got a message when doing push command and need to do this to fix it)
 #https://linuxconfig.org/bash-scripting-tutorial-for-beginners#h9-hello-world-bash-shell-script (tutorial followed)
 #https://websiteforstudents.com/how-to-use-nano-command-line-text-editor-in-ubuntu-18-04-16-04/ (how to use nano editor)
+
+#shared repo link to both of my group members (Andy Nunez and Lasette Gonzales) and was able to fork both of their repos
