@@ -1,6 +1,6 @@
 
 #project used nano "task.sh" to edit all the files
-test!
+
 #project This project is to help us learn more on how to use git, bash, and shell. 
 #used nano "task.sh" to edit all the files
 
@@ -38,3 +38,6 @@ test!
 #https://websiteforstudents.com/how-to-use-nano-command-line-text-editor-in-ubuntu-18-04-16-04/ (how to use nano editor)
 
 #shared repo link to both of my group members (Andy Nunez and Lasette Gonzales) and was able to fork both of their repos
+
+#Code Review Andy Nunez
+#I thought that Jakob's code looked great and followed the instructions perfectly. Unlike my code, he was able to get this backup.sh to work and I couldn't. I think I might have done a step wrong. His works just like the video intends it to. I think that you he could have had a longer more detailed README file so that you could understand what was happening in more detail. Other than that, his .sh files were all like the examples. I belive the code is indented properly. To be honest, I don't know what exactly what this question is. I anaswered this question based on if the code is readable and easy to follow which I believe it is.
